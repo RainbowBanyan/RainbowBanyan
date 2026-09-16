@@ -10,4 +10,4 @@
 ```python
 print("Hello World!")
 ```
-![背影长城]()
+![背影长城](背影长城.jpg)
