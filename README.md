@@ -10,4 +10,7 @@
 ```python
 print("Hello World!")
 ```
-![背影长城](背影长城.jpg)
+![背影长城](背影长城.jpg)  
+***
+#仓库状态统计
+！[](https://github-readme-stats.vercel.app/api?username=RainbowBanyan&show_icons=true&theme=transparent)
