@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**RainbowBanyan/RainbowBanyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi! 循此苦旅，以达繁星 ⭐
+*"Through hardships to the stars"*<br>
+* 永远保持对梦想的热爱！
+* 你想要的，或早或晚，都在路上。
+* 玩物勿丧志，得意勿忘形。<br>
+  慎始而敬终，三思而后行。<br>
+  希君生羽翼，一化北冥鱼。
+  ***
+***《牧神记》 & Harry Potter & Dragon Ball***<br>
+```python
+print("Hello World!")
+```
+![背影长城]()
